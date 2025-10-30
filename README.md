@@ -184,8 +184,8 @@ To shut down all running containers:
 docker-compose down
     │       └── data.sql         # Optional sample data
     └── test/                    # Unit & integration tests
-Author
 
+👨‍💻Author
 Vijay Patil
 Java Backend Developer | Pune, India
 📧 vis.nyh@gmail.com
